@@ -1,3 +1,3 @@
 honcho==1.0.1
 gunicorn==19.7.1
-git+git://github.com/superdesk/video-server.git@master#egg=videoserver
+git+git://github.com/idsvn/video-server.git@staging#egg=videoserver
